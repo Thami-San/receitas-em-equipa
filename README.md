@@ -17,3 +17,6 @@ com Git (commits, branches, merges).
 - Thamires — Elemento A
 - Fernanda — Elemento B
 - Mairane — Elemento C
+
+## Objetivo
+Este repositório reúne estrutura de um website de receitas organizadas por categoria (entradas, pratos principais, sobremesas e bebidas), desenvolvida por três formandas como exercício prático de colaboração em Git e GitHub. Cada pasta representa uma categoria de receitas, e a estrutura foi definida em conjunto pela equipa.
